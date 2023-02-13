@@ -1,0 +1,31 @@
+class Sarojamma
+{
+static void triangle()
+
+{
+ long b=25;
+ long h=35;
+ double area=1/2.0*b*h;
+ System.out.println(area);
+}
+
+public static void main(String[] args)
+
+{
+  triangle();
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
